@@ -1,1 +1,3 @@
 Hallo. Dies ist ein Test.
+You may use Cttl-Shift-V to make the exercise instructions more reader friendly.
+https://m346.frickelbude.ch/
